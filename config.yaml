@@ -1,0 +1,8 @@
+train: C:\Users\Valdy\Documents\VSCode\orangutan-image-video-detection-main\orangutan-main\dataset\images\YOLODataset\images\train
+val: C:\Users\Valdy\Documents\VSCode\orangutan-image-video-detection-main\orangutan-main\dataset\images\YOLODataset\images\val
+
+train_labels: C:\Users\Valdy\Documents\VSCode\orangutan-image-video-detection-main\orangutan-main\dataset\images\YOLODataset\labels\train
+val_labels: C:\Users\Valdy\Documents\VSCode\orangutan-image-video-detection-main\orangutan-main\dataset\images\YOLODataset\labels\val
+
+nc: 1
+names: ["orangutan"]
